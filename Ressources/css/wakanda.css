@@ -21,7 +21,7 @@
     src: url("fonts/WakandaForever-Regular.ttf");
 }
 
-/* GLOBAL PROPS */
+/* GLOBAL */
 
 :root {
     --violet-primaire: #3D2DA6;
@@ -34,7 +34,7 @@
 }
 
 
-/* WAKANDA ASPECT */
+/* ASPECT PAGE WAKANDA  */
 
 #wakanda {
     background-image: url("../images/Wakanda/Pantherwakanda1.png");
@@ -115,7 +115,7 @@
     width: 100%;
 }
 
-/* PARTIE RESPONSIVE  */
+
 
 
 @media (max-width: 800px) {
