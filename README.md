@@ -1,0 +1,1 @@
+souci de synchronisation entre git et github depuis quelques temps mais reglé  à la dernière minute grâce à un super héro sur le chanel help de discord
